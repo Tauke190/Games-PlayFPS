@@ -6,9 +6,9 @@ In this game, the player's objective revolves around defending a base situated a
 
 
 
-[![Video 1 - FPS](https://img.youtube.com/vi/v=UQ1ZHNh-z8o&t=2s/0.jpg)](https://www.youtube.com/watch?v=UQ1ZHNh-z8o&t=2s)
+[![Video 1 - FPS](1.png)](https://www.youtube.com/watch?v=UQ1ZHNh-z8o&t=2s)
 
-[![Video 2 - FPS Bonus](https://img.youtube.com/vi/v=UQ1ZHNh-z8o&t=2s/0.jpg)](https://www.youtube.com/watch?=sYkvtzq72MY)
+[![Video 2 - FPS Bonus](2.png)](https://www.youtube.com/watch?=sYkvtzq72MY)
 
 
 # BONUS POINTS
