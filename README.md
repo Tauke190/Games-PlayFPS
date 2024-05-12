@@ -5,9 +5,10 @@ The game incorporates elements introduced in the tutorial along with additional 
 In this game, the player's objective revolves around defending a base situated at the center of a mountainous terrain. Initially, drones patrol the area, but upon entering their radius, they become hostile and initiate attacks against the player. It's a test of skill and strategy as you navigate the hostile environment, utilizing your newfound abilities to safeguard the base and survive the onslaught of enemy drones.
 
 
-
+## Video 1 (Click on the image)
 [![Video 1 - FPS](1.png)](https://www.youtube.com/watch?v=UQ1ZHNh-z8o&t=2s)
 
+## Video 2 - Bonus (Click on the image)
 [![Video 2 - FPS Bonus](2.png)](https://www.youtube.com/watch?=sYkvtzq72MY)
 
 
