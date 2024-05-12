@@ -6,7 +6,8 @@ In this game, the player's objective revolves around defending a base situated a
 
 
 
-[![Step Image](https://img.youtube.com/vi/v=UQ1ZHNh-z8o&t=2s.jpg)](https://www.youtube.com/watch?v=UQ1ZHNh-z8o&t=2s)
+[![Video 1 - FPS](https://img.youtube.com/vi/v=UQ1ZHNh-z8o&t=2s.jpg)](https://www.youtube.com/watch?v=UQ1ZHNh-z8o&t=2s)
+[![Video 2 - FPS Bonus](https://img.youtube.com/vi/v=UQ1ZHNh-z8o&t=2s.jpg)](https://www.youtube.com/watch?=sYkvtzq72MY)
 
 
 
